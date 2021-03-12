@@ -1,6 +1,6 @@
-## **Droid Skull DEV** <img src='imagens_Readme/pixel_Droidskull.png'/>
+## **Droid Skull DEV** <img width="380px" src='imagens_Readme/pixel_Droidskull.png'/>
 ###### Kalebe Nascimento
-
+<td><img width="380px" src="https://github-readme-stats.vercel.app/api?username=feliper2002&theme=algolia&line"/></td>
 <div align='left'>
     <h3> <b> 🌎 Entre em contato! </b> </h3> <p>
     <a href='https://twitter.com/feliper_dev'>
