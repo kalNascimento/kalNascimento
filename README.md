@@ -1,7 +1,7 @@
 ## **Droid Skull DEV**
 ###### Kalebe Nascimento
 
-<div align='center'>
+<div align='left'>
     <h3> <b> 🌎 Entre em contato! </b> </h3> <p>
     <a href='https://twitter.com/feliper_dev'>
         <img src='assets/twitter-logo-4.png' width=35 title='Meu twitter'>
