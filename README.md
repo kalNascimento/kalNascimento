@@ -2,8 +2,8 @@
 #### **Kalebe Nascimento**
 
 
-###### - Técnologia em Automação Industrial - FATEC Prof. Wilson Roberto Ribeiro de Camargo
-###### - Técnico em Mecatrônica - ETEC Sales Gomes
+###### * Técnologia em Automação Industrial - FATEC Prof. Wilson Roberto Ribeiro de Camargo
+###### * Técnico em Mecatrônica - ETEC Sales Gomes
 
 
 
