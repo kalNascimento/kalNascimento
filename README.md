@@ -1,4 +1,4 @@
-## **Droid Skull DEV** <img src='imagens_Readme/pixel_Droidskull'/>
+## **Droid Skull DEV** <img src='imagens_Readme/pixel_Droidskull.png'/>
 ###### Kalebe Nascimento
 
 <div align='left'>
