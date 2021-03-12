@@ -1,4 +1,4 @@
-## **Droid Skull DEV** <img width="380px" src='imagens_Readme/pixel_Droidskull.png'/>
+## **Droid Skull DEV** <img width="50px" src='imagens_Readme/pixel_Droidskull.png'/>
 ###### Kalebe Nascimento
 <td><img width="380px" src="https://github-readme-stats.vercel.app/api?username=feliper2002&theme=algolia&line"/></td>
 <div align='left'>
