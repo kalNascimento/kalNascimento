@@ -1,4 +1,4 @@
-## **Droid Skull DEV**
+## **Droid Skull DEV** <img src='imagem_Readme/pixel_Droidskull'/>
 ###### Kalebe Nascimento
 
 <div align='left'>
@@ -12,4 +12,9 @@
     </a><a href='https://www.instagram.com/felipe.developer/'>
         <img src='assets/ig.png' width=30 title='Meu instagram'>
     </a>
+</div>
+<div align="left">
+    <tr>
+        <td><img width="380px" src="https://github-readme-stats.vercel.app/api?username=feliper2002&theme=algolia&line"/></td>
+    </tr>   
 </div>
