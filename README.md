@@ -1,5 +1,21 @@
-## **Droid Skull DEV** <img width="20px" src='imagens_Readme/pixel_Droidskull.png'/>
-###### Kalebe Nascimento
+## **DroidSkull DEV** <img width="20px" src='imagens_Readme/pixel_Droidskull.png'/>
+##### Kalebe Nascimento
+
+
+###### - Técnologia em Automação Industrial - FATEC Prof. Wilson Roberto Ribeiro de Camargo
+###### - Técnico em Mecatrônica - ETEC Sales Gomes
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div align='left'>
     <h3> <b> Contato ☎️ </b> </h3> <p>
