@@ -1,5 +1,5 @@
-## **DroidSkull DEV** <img width="20px" src='imagens_Readme/pixel_Droidskull.png'/>
-#### **Kalebe Nascimento**
+
+## **Kalebe Nascimento**
 
 ###### ----------------------------------------------------------------------------------------------------------------------
 
