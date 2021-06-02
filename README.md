@@ -8,7 +8,6 @@
  
  ###### ---------------------------------------------------------------------------------------------------------------------
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalNascimento&langs_count=8)](https://github.com/kalNascimento/github-readme-stats)
 
 
 
