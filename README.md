@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalNascimento&hide=css,html&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
  
- 
+<div align='center'>
     <h5> <b> Contato ☎️ </b> </h3> <p>
     <a href='https://twitter.com/_DroidSkull'>
         <img src='imagens_Readme/twitter.png' width=30 title='Meu Twitter'>
