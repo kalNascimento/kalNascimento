@@ -15,7 +15,7 @@
    <a href="https://github.com/kalNascimento" style="text-decoration:none">
      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalNascimento&layout=compact&langs_count=16&theme=midnight-purple"/></a>
   <a href="https://github.com/kalNascimento" style="text-decoration:none">
-     <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=kalNascimento)](https://github.com/anuraghazra/github-readme-stats"/></a>
+     <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=kalNascimento)"/></a>
  </div>
  
 <div align='center'>
