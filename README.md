@@ -11,9 +11,9 @@
  
  <div>
   <a href="https://github.com/kalNascimento" style="text-decoration:none">
-     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kalNascimento&show_icons=true&theme=radical"/></a>
+     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kalNascimento&show_icons=true&theme=github_dark"/></a>
    <a href="https://github.com/kalNascimento" style="text-decoration:none">
-     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalNascimento&layout=compact&langs_count=16&theme=radical"/></a>
+     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalNascimento&layout=compact&langs_count=16&theme=github_dark"/></a>
  </div>
  
 <div align='center'>
