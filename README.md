@@ -9,8 +9,12 @@
  
   ---------------------------------------------------------------------------------------------------------------------
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalNascimento&hide=css,html&theme=radical)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalNascimento&theme=radical_icons=true)
+ <div>
+  <a href="https://github.com/kalNascimento" style="text-decoration:none">
+     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kalNascimento&show_icons=true&theme=midnight-purple"/></a>
+   <a href="https://github.com/kmandzzz" style="text-decoration:none">
+     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalNascimento&layout=compact&langs_count=16&theme=midnight-purple"/></a>
+ </div>
  
 <div align='center'>
     <h5> <b> Contato ☎️ </b> </h3> <p>
