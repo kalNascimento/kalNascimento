@@ -12,7 +12,7 @@
  <div>
   
   <a href="https://github.com/kalNascimento" style="text-decoration:none">
-     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kalNascimento&count_private=true&theme=github_dark)"/></a>
+     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kalNascimento&theme=github_dark&count_private=true)"/></a>
    <a href="https://github.com/kalNascimento" style="text-decoration:none">
      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalNascimento&layout=compact&langs_count=5&theme=github_dark"/></a>
    
