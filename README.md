@@ -2,9 +2,9 @@
  
  ----------------------------------------------------------------------------------------------------------------------
  <h1>Kalebe Nascimento</h1>
- Técnologia em Automação Industrial - FATEC Prof. Wilson Roberto Ribeiro de Camar
+ <h3>Técnologia em Automação Industrial - FATEC Prof. Wilson Roberto Ribeiro de Camargo</h3>
  
- Técnico em Mecatrônica - ETEC Sales Gomes
+ <h3>Técnico em Mecatrônica - ETEC Sales Gomes</h3>
  
   ---------------------------------------------------------------------------------------------------------------------
  
@@ -21,7 +21,7 @@
  </div>
 
 <div align='center'>
-    <h5> <b> Contato ☎️ </b> </h3> <p>
+    <h2> <b> Contato ☎️ </b> </h2> <p>
     <a href='https://twitter.com/_DroidSkull'>
         <img src='imagens_Readme/twitter.png' width=30 title='Meu Twitter'>
     </a><a href='https://www.linkedin.com/in/kalebe-nascimento-7690311b7/' title='Meu linkedin'>
