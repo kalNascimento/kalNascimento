@@ -11,20 +11,21 @@
  <div>
   
   <a href="https://github.com/kalNascimento" style="text-decoration:none">
-     <img width="400px" src="https://github-readme-stats.vercel.app/api?username=kalNascimento&count_private=true&theme=github_dark&count_private=true)"/>
+     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=kalNascimento&count_private=true&theme=github_dark&count_private=true)"/>
   </a>
   
   <a href="https://github.com/kalNascimento" style="text-decoration:none">
-     <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalNascimento&count_private=true&layout=compact&langs_count=5&theme=github_dark"/>
+     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalNascimento&count_private=true&layout=compact&langs_count=5&theme=github_dark"/>
   </a>
 
  </div>
 
 <div align='center'>
-    <h2> <b> Contato ☎️ </b> </h2> <p>
+    <h2> <b> Contato ☎️ </b> </h2>
     <a href='https://twitter.com/_DroidSkull'>
         <img src='imagens_Readme/twitter.png' width=30 title='Meu Twitter'>
-    </a><a href='https://www.linkedin.com/in/kalebe-nascimento-7690311b7/' title='Meu linkedin'>
+    </a>
+    <a href='https://www.linkedin.com/in/kalebe-nascimento-7690311b7/' title='Meu linkedin'>
         <img src='imagens_Readme/lnd.png' width=30 title='Meu Linkedin'>
     </a>
 </div>
