@@ -22,10 +22,10 @@
 
 <div align='center'>
     <h2> <b> Contato ☎️ </b> </h2>
-    <a href='https://twitter.com/_DroidSkull'>
+    <a href='https://twitter.com/kal_Nascimento'>
         <img src='imagens_Readme/twitter.png' width=30 title='Meu Twitter'>
     </a>
-    <a href='https://www.linkedin.com/in/kalebe-nascimento-7690311b7/' title='Meu linkedin'>
+    <a href='https://www.linkedin.com/in/kalebenascimento/' title='Meu linkedin'>
         <img src='imagens_Readme/lnd.png' width=30 title='Meu Linkedin'>
     </a>
 </div>
