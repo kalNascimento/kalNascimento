@@ -11,7 +11,7 @@
  <div>
   
   <a href="https://github.com/kalNascimento" style="text-decoration:none">
-     <img src="https://github-readme-stats.vercel.app/api?username=kalNascimento&count_private=true&theme=github_dark&count_private=true)"/>
+     <img width="500px" src="https://github-readme-stats.vercel.app/api?username=kalNascimento&count_private=true&theme=github_dark&count_private=true)"/>
   </a>
   
   <a href="https://github.com/kalNascimento" style="text-decoration:none">
