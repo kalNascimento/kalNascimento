@@ -6,6 +6,8 @@
  
  <h3>Técnico em Mecatrônica - ETEC Sales Gomes</h3>
  
+ <h3>Técnico Desenvolvimendo de Sistemas - ETEC Sales Gomes</h3>
+ 
   ---------------------------------------------------------------------------------------------------------------------
  
  <div>
