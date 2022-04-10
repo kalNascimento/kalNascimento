@@ -10,24 +10,45 @@
  
   ---------------------------------------------------------------------------------------------------------------------
  
- <div>
-  
-  <a href="https://github.com/kalNascimento" style="text-decoration:none">
-     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=kalNascimento&count_private=true&theme=github_dark&count_private=true)"/>
-  </a>
-  
-  <a href="https://github.com/kalNascimento" style="text-decoration:none">
-     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalNascimento&count_private=true&layout=compact&langs_count=5&theme=github_dark"/>
-  </a>
-
- </div>
-
-<div align='center'>
-    <h2> <b> Contato ☎️ </b> </h2>
-    <a href='https://twitter.com/kal_Nascimento'>
-        <img src='imagens_Readme/twitter.png' width=30 title='Meu Twitter'>
+<div> <!--Cards -->
+    <a href="https://github.com/kalNascimento" style="text-decoration:none">
+        <img width="80%" src="https://github-readme-stats.vercel.app/api?username=kalNascimento&count_private=true&theme=github_dark&count_private=true)"/>
     </a>
-    <a href='https://www.linkedin.com/in/kalebenascimento/' title='Meu linkedin'>
-        <img src='imagens_Readme/lnd.png' width=30 title='Meu Linkedin'>
+    <a href="https://github.com/kalNascimento" style="text-decoration:none">
+        <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalNascimento&count_private=true&layout=compact&langs_count=5&theme=github_dark"/>
+    </a>
+</div>
+<br>
+
+<div> <!--Langs-->
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+</div>
+
+<div> <!--Estudando-->
+    <h5>Estudando</h5>
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
+          
+</div>
+
+ ----------------------------------------------------------------------------------------------------------------------
+<div>
+    <h5>Contato</h5>
+    <a href="https://www.instagram.com/kal_nasc/" style="text-decoration:none">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+    <a href="https://twitter.com/kal_Nascimento" style="text-decoration:none">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/kalebenascimento/" style="text-decoration:none">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://www.behance.net/kalNascimento/" style="text-decoration:none">
+        <img width="120" src="https://aleen42.github.io/badges/src/behance.svg"/>
     </a>
 </div>
