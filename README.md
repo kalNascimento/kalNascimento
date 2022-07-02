@@ -33,7 +33,8 @@
 <div> <!--Estudando-->
     <h5>Estudando</h5>
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+          
 </div>
 
  ----------------------------------------------------------------------------------------------------------------------
