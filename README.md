@@ -12,7 +12,7 @@
  
 <div> <!--Cards -->
     <a href="https://github.com/kalNascimento" style="text-decoration:none">
-        <img width="60%" src="https://github-readme-stats.vercel.app/api?username=kalNascimento&theme=github_dark)"/>
+        <img width="60%" src="https://github-readme-stats.vercel.app/api?username=kalNascimento&show_icons=true&theme=github_dark)"/>
     </a>
     <a href="https://github.com/kalNascimento" style="text-decoration:none">
         <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalNascimento&layout=compact&langs_count=6&theme=github_dark"/>
