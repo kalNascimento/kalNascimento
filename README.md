@@ -17,13 +17,13 @@
 <div align='center'>
 <div> <!--Cards -->
     <br>
-    <h3>My cards</h3>
+    <h3>My Stats</h3>
     <br>
     <a href="https://github.com/kalNascimento" style="text-decoration:none">
-        <img width="60%" src="https://github-readme-stats.vercel.app/api?username=kalNascimento&count_private=true&theme=github_dark&count_private=true)"/>
+        <img width="60%" src="https://github-readme-stats.vercel.app/api?username=kalNascimento&count_private=true&theme=github_dark&show_icons=true)"/>
     </a>
     <a href="https://github.com/kalNascimento" style="text-decoration:none">
-        <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalNascimento&count_private=true&layout=compact&langs_count=5&theme=github_dark"/>
+        <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalNascimento&count_private=false&layout=compact&langs_count=6&exclude_repo=tecnico_em_desenvolvimento_de_sistemas,Alura&theme=github_dark"/>
     </a>
 </div>
 <br>
