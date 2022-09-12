@@ -42,7 +42,7 @@
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
-<div> <!--Estudando-->
+<div> <!--Estudando :) -->
     <h5>Studying</h5>
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
