@@ -20,7 +20,7 @@
     <h3>My Stats</h3>
     <br>
     <a href="https://github.com/kalNascimento" style="text-decoration:none">
-        <img width="60%" src="https://github-readme-stats.vercel.app/api?username=kalNascimento&count_private=false&theme=github_dark&show_icons=true)"/>
+        <img width="60%" src="https://github-readme-stats.vercel.app/api?username=kalNascimento&count_private=true&theme=github_dark&show_icons=true)"/>
     </a>
     <a href="https://github.com/kalNascimento" style="text-decoration:none">
         <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalNascimento&layout=compact&hide=css,html&langs_count=6&theme=github_dark"/>
