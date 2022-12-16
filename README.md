@@ -53,9 +53,6 @@
  ----------------------------------------------------------------------------------------------------------------------
 <div>
     <h5>Contact</h5>
-    <a href="https://www.instagram.com/kal_nasc/" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
     <a href="https://twitter.com/kal_Nascimento" style="text-decoration:none">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
