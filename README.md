@@ -32,9 +32,7 @@
         <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalNascimento&layout=compact&hide=css,html&langs_count=6&theme=github_dark" />
     </a>
     <br><br>
-    
     <hr>
-    
     <!-- Technologies -->
     <h3>Technologies I Work With</h3>
     <br>
@@ -45,9 +43,7 @@
         <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />
     </div>
     <br><br>
-    
     <hr>
-    
     <!-- Contact Links -->
     <h5>Contact Me</h5>
     <a href="https://twitter.com/kal_Nascimento" style="text-decoration:none">
