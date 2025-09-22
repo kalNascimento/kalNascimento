@@ -1,18 +1,24 @@
- <hr>
+<hr>
 
- ### 👋 Hi, I'm Kalebe Nascimento
+### 👋 Hi, I'm Kalebe Nascimento
 
- #### 👀 I'm interested in:
-- Development backend and frontend
-- Arduino & ESP series & Raspberry series
-- Electronic prototyping
+#### 💻 Currently working as:
+- Full Stack Developer (Mid-level)  
+- Mainly working with **Angular** and **Spring Boot**
+- Occasionally using **Next.js** and **React Native** on some projects
 
-#### 👨🏽‍🎓 I'm graduated in:
- - Industrial Automation Technologist - FATEC Prof. Wilson Roberto Ribeiro de Camargo
- - Mechatronics Technician - ETEC Sales Gomes
- - Systems Development Technician - ETEC Sales Gomes
+#### 👀 I'm interested in:
+- Embedded Systems and Internet of Things (IoT)
+- Electronics prototyping with **Arduino**, **ESP32**, and **Raspberry Pi**
+
+#### 🎓 Education:
+- Postgraduate in **Data Science**
+- Currently pursuing a degree in **Computer Science**
+- Bachelor's in **Industrial Automation** – FATEC Prof. Wilson Roberto Ribeiro de Camargo
+- Technical degree in **Mechatronics** – ETEC Sales Gomes
+- Technical degree in **Systems Development** – ETEC Sales Gomes
   
-  <hr>
+<hr>
 
 <div align='center'>
 <div> <!--Cards -->
@@ -34,30 +40,10 @@
     <br>
     <div>
       <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-       <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
-       <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-       <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-       <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-       <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-       <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />
     </div>
-    <div>
-      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-       <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-       <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-       <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-       <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-       <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-       <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    </div>
-</div>
-
-<div> <!--Estudando :) -->
-    <h5>Studying</h5>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 </div>
 
  ----------------------------------------------------------------------------------------------------------------------
