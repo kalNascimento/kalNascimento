@@ -36,12 +36,11 @@
     <!-- Technologies -->
     <h3>Technologies I Work With</h3>
     <br>
-    <div align="center">
-        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" />
-        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
-        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />
-    </div>
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=angular,spring,nextjs,react,docker" />
+      </a>
+    </p>
     <br><br>
     <hr>
     <!-- Contact Links -->
